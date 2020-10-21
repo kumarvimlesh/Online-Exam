@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "447320804696",
+    "firebase_url": "https://online-exam-cd77a.firebaseio.com",
+    "project_id": "online-exam-cd77a",
+    "storage_bucket": "online-exam-cd77a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447320804696:android:922b35b681e95251f4692d",
+        "android_client_info": {
+          "package_name": "com.example.onlineexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447320804696-8svag1he0u7pdllhm36cfg73oc65334s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlineexam",
+            "certificate_hash": "ecbf801abffd90ddafdc302b27bbac897be631d8"
+          }
+        },
+        {
+          "client_id": "447320804696-53hmjssigq6kja3uer6ha1uickucvc1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWWNhOFTHEYt812iFOrLIbiLk3_xf95qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447320804696-53hmjssigq6kja3uer6ha1uickucvc1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
